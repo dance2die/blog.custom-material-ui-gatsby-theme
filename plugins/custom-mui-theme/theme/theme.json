@@ -186,10 +186,10 @@
     },
     "divider": "rgba(0, 0, 0, 0.12)",
     "secondary": {
-      "main": "#E91E63",
-      "light": "rgb(237, 75, 130)",
-      "dark": "rgb(163, 21, 69)",
-      "contrastText": "#fff"
+      "main": "#FFFF00",
+      "light": "rgb(255, 255, 51)",
+      "dark": "rgb(178, 178, 0)",
+      "contrastText": "rgba(0, 0, 0, 0.87)"
     },
     "common": { "black": "#000", "white": "#fff" },
     "error": {
@@ -208,11 +208,11 @@
       "active": "rgba(0, 0, 0, 0.54)"
     },
     "primary": {
-      "main": "#9C27B0",
-      "light": "rgb(175, 82, 191)",
-      "dark": "rgb(109, 27, 123)",
+      "main": "#B71C1C",
+      "light": "rgb(197, 73, 73)",
+      "dark": "rgb(128, 19, 19)",
       "contrastText": "#fff"
     }
   },
-  "themeName": "Seance Amaranth Vigtorniella Worm"
+  "themeName": "Thunderbird Yellow Goose"
 }
